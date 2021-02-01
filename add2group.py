@@ -1,3 +1,4 @@
+# coding: utf-8
 #!/bin/env python3
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
